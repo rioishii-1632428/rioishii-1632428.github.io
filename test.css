@@ -52,3 +52,14 @@ div{
 body{
 	background-image: url("dark_wood.png");
 }
+p{
+	font-family: Arial;
+	color: white;
+	font-weight: bold;
+	padding: 10px;
+}
+a{
+	font-size: 24px;
+	color: white;
+	font-weight: bold;
+}
